@@ -1,4 +1,4 @@
-#include <stdio.h>/*biblioteka*/
+#include <stdio.h>/* biblioteka */
 #include <stdlib.h>
 #include <math.h>
  
